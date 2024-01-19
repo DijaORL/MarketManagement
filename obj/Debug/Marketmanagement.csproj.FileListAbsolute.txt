@@ -1,0 +1,17 @@
+C:\Users\khadija\Desktop\Marketmanagement\bin\Debug\Marketmanagement.exe.config
+C:\Users\khadija\Desktop\Marketmanagement\bin\Debug\Marketmanagement.exe
+C:\Users\khadija\Desktop\Marketmanagement\bin\Debug\Marketmanagement.pdb
+C:\Users\khadija\Desktop\Marketmanagement\bin\Debug\Guna.UI2.dll
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.LoginForm.resources
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.Properties.Resources.resources
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.csproj.GenerateResource.cache
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.csproj.CoreCompileInputs.cache
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.csproj.CopyComplete
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.exe
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.pdb
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.csproj.AssemblyReference.cache
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.FirstForm.resources
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.productForm.resources
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.CategoryForm.resources
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.SellerForm.resources
+C:\Users\khadija\Desktop\Marketmanagement\obj\Debug\Marketmanagement.SellingForm.resources
